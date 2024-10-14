@@ -1,3 +1,13 @@
+# DON'T IGNORE!!
+
+
+Make 2 folders
+
+1. Register_faces
+
+2. Detected Unknown Faces
+
+
 # face_authentication
 
 Project Overview
